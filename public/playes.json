@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co.com/ZpSDWDj6/gettyimages-1761707641-1024x1024.jpg",
+    "name": "Sakib All Hasan",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "rating": 86,
+    "country": "Bangladesh",
+    "price": 450000
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co.com/ZpSDWDj6/gettyimages-1761707641-1024x1024.jpg",
+    "name": "Rahul Mehta",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "rating": 90,
+    "country": "India",
+    "price": 780000
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co.com/ZpSDWDj6/gettyimages-1761707641-1024x1024.jpg",
+    "name": "Omar Khan",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Left-arm orthodox",
+    "rating": 82,
+    "country": "Pakistan",
+    "price": 420000
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co.com/ZpSDWDj6/gettyimages-1761707641-1024x1024.jpg",
+    "name": "Liam Fletcher",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "rating": 88,
+    "country": "England",
+    "price": 620000
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co.com/ZpSDWDj6/gettyimages-1761707641-1024x1024.jpg",
+    "name": "Daniel Reid",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Legbreak",
+    "rating": 79,
+    "country": "Australia",
+    "price": 380000
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co.com/ZpSDWDj6/gettyimages-1761707641-1024x1024.jpg",
+    "name": "Temba Nkosi",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium-fast",
+    "rating": 81,
+    "country": "South Africa",
+    "price": 400000
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co.com/ZpSDWDj6/gettyimages-1761707641-1024x1024.jpg",
+    "name": "Ethan Clarke",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Wrist spin",
+    "rating": 75,
+    "country": "New Zealand",
+    "price": 300000
+  },
+  {
+    "id": 8,
+    "img": "https://i.ibb.co.com/ZpSDWDj6/gettyimages-1761707641-1024x1024.jpg",
+    "name": "Carlos Joseph",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "rating": 77,
+    "country": "West Indies",
+    "price": 330000
+  },
+  {
+    "id": 9,
+    "img": "https://i.ibb.co.com/ZpSDWDj6/gettyimages-1761707641-1024x1024.jpg",
+    "name": "Pradeep Silva",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Offspin",
+    "rating": 80,
+    "country": "Sri Lanka",
+    "price": 360000
+  },
+  {
+    "id": 10,
+    "img": "https://i.ibb.co.com/ZpSDWDj6/gettyimages-1761707641-1024x1024.jpg",
+    "name": "Marcus Chipo",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "rating": 73,
+    "country": "Zimbabwe",
+    "price": 210000
+  },
+  {
+    "id": 11,
+    "img": "https://i.ibb.co.com/ZpSDWDj6/gettyimages-1761707641-1024x1024.jpg",
+    "name": "Sami Al-Farsi",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "rating": 78,
+    "country": "UAE",
+    "price": 290000
+  },
+  {
+    "id": 12,
+    "img": "https://i.ibb.co.com/ZpSDWDj6/gettyimages-1761707641-1024x1024.jpg",
+    "name": "Arjun Das",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Legbreak googly",
+    "rating": 84,
+    "country": "India",
+    "price": 510000
+  }
+]
