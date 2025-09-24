@@ -26,6 +26,8 @@ function App() {
    const filterdata=selectedplayers.filter(ply=>ply.name!==p.name)
     console.log(filterdata);
     setSelectedplayers(filterdata)
+
+    setAvailablebalance(availablebalance+p.price)
     
     
 
@@ -40,11 +42,12 @@ function App() {
      <Navber availablebalance={availablebalance}></Navber>
 
      <div className='max-w-[1200px] m-auto flex justify-between pt-3'>
-      <h2>Available Players</h2>
+      <h2>{toggle===true?"available players":`selected players ${selectedplayers.length}/6`}
+      </h2>
 
       <div className='flex space-x-3'> 
         <button onClick={()=>setToggle(true)} className={`btn ${toggle===true?"bg-amber-300":""}`}>available</button>
-        <button onClick={()=>setToggle(false)} className={`btn ${toggle===false?"bg-amber-300":""}`}>selected{Player.length}</button>
+        <button onClick={()=>setToggle(false)} className={`btn ${toggle===false?"bg-amber-300":""}`}>selected..{selectedplayers.length}</button>
       </div>
      </div>
 
